@@ -32,7 +32,6 @@ rails s
 Now the application should be up and running on port 3000.
 
 ### Movies APIs
-Note: All the listed APIs are admin restricted.
 ```ruby
 # GET /api/v1/movies
 # GET /api/v1/movies/:id
