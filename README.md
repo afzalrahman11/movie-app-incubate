@@ -42,7 +42,7 @@ Now the application should be up and running on port 3000.
 #### params
 ```ruby
 # POST /api/v1/movies
-# To filter the shows, you can pass following params
+# To create a new movie details, you can pass following params
 {
   "name": "Spider Man",
   "language": "English",
